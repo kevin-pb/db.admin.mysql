@@ -1,1 +1,1 @@
-# db.admin.mysql-
+# db.admin.mysql
