@@ -29,3 +29,4 @@ begin
 
 
 CREATE INDEX index1 ON adm.product (product_id);
+
