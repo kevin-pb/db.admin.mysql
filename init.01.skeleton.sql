@@ -1,6 +1,6 @@
-create database store;
+create database adm;
 
-use store ;
+use adm ;
 
 create table employee (
     employee_id int primary key,
