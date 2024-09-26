@@ -1,6 +1,5 @@
 use adm;
 Create view product_category
-as
 select p.product_id, 
        p.product_name, 
        p.quantity_per_unit, 
