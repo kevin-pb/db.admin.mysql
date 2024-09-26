@@ -89,15 +89,17 @@ This project demonstrates the setup and administration of a MySQL database serve
 
 1. Click on the option at the top that says server.
 
-![screenshot.jpg](./rsc/screenshot.JPG)
-
 2. Then click on the option that says export data.
 
+![screenshot.jpg](./rsc/CreateBackup1.png)
+
 3. Select the scheme you want to export.
-
+ 
 4. Enter the options you need to export and click the button that says start.
-
+ 
 5. Select where you want the file.
+ 
+![screenshot.jpg](./rsc/CreateBackup2.png)
 
 - How to resturate a backup:
 
@@ -106,3 +108,5 @@ This project demonstrates the setup and administration of a MySQL database serve
 2. Then click on the option that says open sql script.
 
 3. Select the file of the backup and execute the file
+
+![screenshot.jpg](./rsc/CreateBackup3.png)
