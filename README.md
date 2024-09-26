@@ -1,4 +1,4 @@
-# db.admin.mysql
+# Introduction to database administration
 
 ## Project Overview
 This project demonstrates the setup and administration of a MySQL database server. The key tasks include setting up the MySQL server, using MySQL Workbench as a GUI administration tool, creating and managing database objects like views, queries, and stored procedures, optimizing query performance, managing user permissions, and performing database backups and restores.
