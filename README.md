@@ -89,7 +89,7 @@ This project demonstrates the setup and administration of a MySQL database serve
 
 1. Click on the option at the top that says server.
 
-![screenshot.jpg](./rsc/screenshot.JPG)
+![screenshot.jpg](./rsc/screenshot.jpg)
 
 2. Then click on the option that says export data.
 
