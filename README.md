@@ -109,4 +109,4 @@ This project demonstrates the setup and administration of a MySQL database serve
 
 3. Select the file of the backup and execute the file
 
-![screenshot.jpg](./rsc/CreateBackup3.png)
+![screenshot.jpg](./rsc/CreateBackup3.jpg)
